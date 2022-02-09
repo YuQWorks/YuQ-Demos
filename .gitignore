@@ -1,0 +1,12 @@
+device.json
+
+.gradle/
+build/
+target/
+.idea/
+
+tmp/
+log/
+src/main/resources/conf/test**
+
+*.iml
